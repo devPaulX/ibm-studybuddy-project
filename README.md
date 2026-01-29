@@ -15,6 +15,7 @@ An AI-powered document summarizer and study tool featuring a **Hybrid Inference 
 3. Run the app: `python -m src.app`
 
 ## 🛠️ Folder Structure
+```
 ibm-studybuddy-project/
 ├── requirements.txt         # The "Toolbox" list
 ├── README.md                # The "Billboard" description
@@ -23,3 +24,4 @@ ibm-studybuddy-project/
     ├── app.py                   # The main UI (The "Face" of the app)
     ├── ingestion.py         # 📄 INGESTION: Handles PDF/Text extraction
     └── summarizer_hybrid.py # 🧠 AI LOGIC: Handles Groq, Local, & Flashcard prompts
+```
