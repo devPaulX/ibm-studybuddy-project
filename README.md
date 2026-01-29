@@ -3,6 +3,10 @@
 
 An AI-powered document summarizer and study tool featuring a **Hybrid Inference Engine**.
 
+It is built with Gradio for an interactive dashboard.
+
+
+
 ## 🚀 Key Features
 - **Cloud Engine (Groq):** High-speed, comprehensive summarization using Llama-3.1 for large documents.
 - **Local Engine (Edge-Optimized):** Privacy-focused, local inference using `distilgpt2` for machines with limited hardware.
