@@ -1,0 +1,15 @@
+
+# 📚 IBM-AICTE StudyBuddy: Pro Version
+
+An AI-powered document summarizer and study tool featuring a **Hybrid Inference Engine**.
+
+## 🚀 Key Features
+- **Cloud Engine (Groq):** High-speed, comprehensive summarization using Llama-3.1 for large documents.
+- **Local Engine (Edge-Optimized):** Privacy-focused, local inference using `distilgpt2` for machines with limited hardware.
+- **Auto-Flashcards:** Generates a 10-card study deck automatically from any summary.
+- **Smart Logic:** Automatically enforces file size (5MB) and page limits (15 pages) for local stability.
+
+## 🛠️ Installation
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `python -m src.app`
