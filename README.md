@@ -1,5 +1,5 @@
 
-# 📚 IBM-AICTE StudyBuddy: Pro Version
+# 📚 IBM-AICTE Student Project: StudyBuddy Pro Version
 
 An AI-powered document summarizer and study tool featuring a **Hybrid Inference Engine**.
 
